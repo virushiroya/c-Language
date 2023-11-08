@@ -6,7 +6,7 @@ int main()
 
     for (i = 0; i <5; i++)
     {
-        if (a[i]==25)
+        if (a[i]==60)
         {
             printf("%d\t", i);
         }
